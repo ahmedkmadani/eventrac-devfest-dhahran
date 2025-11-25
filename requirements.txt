@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+google-cloud-storage
+opencv-python-headless
+google-genai
